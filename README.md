@@ -1,5 +1,8 @@
 # ss-subscribe-gen
 
+![](./assets/screenshot.png)
+
+
 Powered by Vue, ElementUI
 
 view at [Shadowsocks/ShadowsocksR subscribe generate](https://kosmgco.github.io/ss-subscribe-gen/)
