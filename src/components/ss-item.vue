@@ -132,7 +132,7 @@
       },
       encode () {
         let result = 'ss://'
-        result += btoa(this.method + ':' + this.password + '@' + this.serverHost + ':' + this.serverPort)
+        result += btoa(this.method + ':' + this.password)
         result += '@' + this.serverHost + ':' + this.serverPort
         if (this.plugin && this.plugin !== 'none' && this.pluginOpts) {
           result += '/?plugin=' + this.plugin + '%3B' + encodeURIComponent(this.pluginOpts)

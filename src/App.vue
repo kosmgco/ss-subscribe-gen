@@ -13,7 +13,7 @@
       <component :is="page" keep-alive height="60%"></component>
       <el-divider></el-divider>
       <el-footer>
-        &copy;CopyRight
+        &copy;Copyright
       </el-footer>
     </el-container>
   </div>

@@ -4,7 +4,7 @@
         <el-button type="primary" @click="add">增加服务器</el-button>
         <el-button type="success" @click="encode">生成</el-button>
         <el-divider></el-divider>
-        <div>
+        <div style="width: 100%; white-space: normal;word-break: break-all">
             {{ result }}
         </div>
     </div>
