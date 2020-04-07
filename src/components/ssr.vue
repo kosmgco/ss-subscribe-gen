@@ -1,5 +1,5 @@
 <template>
-    <div>Unimplement</div>
+    <div>Unimplemented</div>
 </template>
 
 <script>
